@@ -36,8 +36,6 @@
 */
 
 // t: current time, b: begInnIng value, c: change In value, d: duration
-$(function(){
-    // your code here.
 jQuery.easing['jswing'] = jQuery.easing['swing'];
 
 jQuery.extend( jQuery.easing,
@@ -173,7 +171,7 @@ jQuery.extend( jQuery.easing,
 	}
 });
     
-});
+
 
 /*
  *
